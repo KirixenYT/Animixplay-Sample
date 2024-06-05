@@ -1,6 +1,6 @@
 This is a simple animixplay remake that i did, its not that gud but i just wanted to make it for the memories!
 
-Site launch, go check it out and if there's any issue, you could report them here!
+[Site launch](http://animixplay.great-site.net/), go check it out and if there's any issue, you could report them here!
 
 Note* : 
 the site is still on development so there might be couple of bugs/issues!
