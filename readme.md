@@ -11,3 +11,50 @@ For now, i plan to keep the code private and when its fully done, i might publis
 ## demo
 https://github.com/KirixenYT/Animixplay-Simple/assets/92567044/dfd020a3-3fd4-4f14-802c-1de87b87e0fc
 
+
+## Images
+
+<details>
+<summary>Home</summary>
+<p align="center">
+  <img src="./imagesreadme/home.png" alt="Homepage" width="80%">
+</p>
+</details>
+
+<details>
+<summary>Detail</summary>
+<p align="center">
+  <img src="./imagesreadme/detail.png" alt="list" width="80%">
+</p>
+</details>
+
+<details>
+<summary>Watch</summary>
+<p align="center">
+  <img src="./imagesreadme/watch.png" alt="season" width="80%">
+</p>
+</details>
+
+<details>
+<summary>Search</summary>
+<p align="center">
+  <img src="./imagesreadme/search.png" alt="season" width="80%">
+</p>
+</details>
+
+<details>
+<summary>Hentai</summary>
+<p align="center">
+  <img src="./imagesreadme/hentai.png" alt="season" width="80%">
+</p>
+</details>
+
+<details>
+<summary>Watching Hentai</summary>
+<p align="center">
+  <img src="./imagesreadme/hentaiwatch.png" alt="season" width="80%">
+</p>
+</details>
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
+
