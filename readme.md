@@ -1,3 +1,5 @@
+# Website Suspended lmao
+
 This is a simple animixplay remake that i did, its not that gud but i just wanted to make it for the memories!
 
 [Site launch](http://animixplay.great-site.net/), go check it out and if there's any issue, you could report them here!
