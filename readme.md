@@ -3,8 +3,6 @@ This is a simple animixplay remake that i did, its not that gud but i just wante
 Note* : 
 the site is still on development so there might be couple of bugs/issues!
 
-[Site launch](http://animixplay.fanclub.rocks/), go check it out and if there's any issue, you could report them here!
-
 ## demo
 https://github.com/KirixenYT/Animixplay-Sample/assets/92567044/31627d56-c5b9-4f6f-a6c0-243a0faa08c8
 
