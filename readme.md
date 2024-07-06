@@ -12,12 +12,17 @@ This is a Discord key generator bot designed specifically for my site.
 - [ ] Integrate Anilist to it
 - [ ] Add registration
 - [ ] Add schedule
-- [ ] Add new providers for anime
+- [ ] Add new providers for anime (supported gogoanime for now)
 - [x] Fix the movies section
 
 ## Features
-- [x] Can watch anime, movies, k-drama and read manga
+- [x] Can watch anime, movies, k-drama, hentai and read manga
 - [x] Can download anime episodes
+- [x] Can search for manga, anime, movies, k-drama
+- [x] Has changelogs
+- [x] Has list full of animes
+- [x] Has random button for anime
+
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/BgTWqFnEss)](https://discord.gg/BgTWqFnEss)
 
