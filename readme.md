@@ -4,9 +4,6 @@ Note* :
 the site is still on development so there might be couple of bugs/issues!
 
 ## demo
-https://github.com/KirixenYT/Animixplay-Sample/assets/92567044/31627d56-c5b9-4f6f-a6c0-243a0faa08c8
-
-This is a Discord key generator bot designed specifically for my site. 
 
 ## Todo
 - [ ] Integrate Anilist to it
