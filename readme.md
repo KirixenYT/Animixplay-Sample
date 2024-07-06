@@ -13,7 +13,7 @@ This is a Discord key generator bot designed specifically for my site.
 - [ ] Add registration
 - [ ] Add schedule
 - [ ] Add new providers for anime
-- [ ] Fix the movies section
+- [x] Fix the movies section
 
 ## Features
 - [x] Can watch anime, movies, k-drama and read manga
